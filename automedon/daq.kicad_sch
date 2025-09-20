@@ -945,6 +945,28 @@
 		)
 		(uuid 9a0d7acf-5259-411a-88a4-2faa4f2d53f3)
 	)
+	(rectangle
+		(start 233.045 221.615)
+		(end 280.035 267.97)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid e21523b3-a31d-41e1-b3d2-38d82954ae37)
+	)
+	(text "RasPi"
+		(exclude_from_sim no)
+		(at 252.476 234.696 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "120ce91c-c504-4343-9a5b-48cb434c0201")
+	)
 	(text "Low-Noise Supplies"
 		(exclude_from_sim no)
 		(at 122.428 242.316 0)
@@ -1522,7 +1544,6 @@
 		)
 	)
 	(symbol
-		(lib_name "automedon:patch_panel")
 		(lib_id "automedon:patch_panel")
 		(at 306.07 161.29 0)
 		(unit 1)
@@ -1938,7 +1959,6 @@
 		)
 	)
 	(symbol
-		(lib_name "automedon:patch_panel")
 		(lib_id "automedon:patch_panel")
 		(at 306.07 49.53 0)
 		(unit 1)
@@ -2070,7 +2090,6 @@
 		)
 	)
 	(symbol
-		(lib_name "automedon:patch_panel")
 		(lib_id "automedon:patch_panel")
 		(at 306.07 87.63 0)
 		(unit 1)
@@ -2354,7 +2373,6 @@
 		)
 	)
 	(symbol
-		(lib_name "automedon:patch_panel")
 		(lib_id "automedon:patch_panel")
 		(at 306.07 124.46 0)
 		(unit 1)

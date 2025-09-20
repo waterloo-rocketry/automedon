@@ -1060,7 +1060,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 82.55) (xy 77.47 82.55)
+			(xy 52.07 82.55) (xy 77.47 82.55)
 		)
 		(stroke
 			(width 0)
@@ -1340,7 +1340,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 78.74) (xy 77.47 78.74)
+			(xy 52.07 78.74) (xy 77.47 78.74)
 		)
 		(stroke
 			(width 0)
@@ -1460,6 +1460,16 @@
 		)
 		(uuid "6e5a2692-087d-4cfb-9045-b16d2d9bf4f7")
 	)
+	(text "RPP"
+		(exclude_from_sim no)
+		(at 87.63 75.184 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b81761b4-a890-4111-bb50-c1e961014acb")
+	)
 	(text "THR2"
 		(exclude_from_sim no)
 		(at 171.45 55.88 0)
@@ -1526,7 +1536,7 @@
 	)
 	(hierarchical_label "BATT_24-"
 		(shape input)
-		(at 66.04 82.55 180)
+		(at 52.07 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1570,7 +1580,7 @@
 	)
 	(hierarchical_label "BATT_24+"
 		(shape input)
-		(at 66.04 78.74 180)
+		(at 52.07 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1845,7 +1855,6 @@
 		)
 	)
 	(symbol
-		(lib_name "automedon:RLCS_RELAY")
 		(lib_id "automedon:RLCS_RELAY")
 		(at 171.45 55.88 0)
 		(unit 1)
